@@ -1,7 +1,7 @@
 import random #for generating random numbers
 import sys  #we will use sys.exit to exit the program
 import pygame
-import pygame.locals import * #basic pygame imports
+from pygame.locals import * #basic pygame imports
 
 #global variables for the game
 FPS = 32

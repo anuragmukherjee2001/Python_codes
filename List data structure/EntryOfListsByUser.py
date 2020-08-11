@@ -14,14 +14,9 @@ for i in range(j):
         s = pgstudent(n,m)
         slist.append(s)
 
-#     print(slist)
-#     max = -1
-#     s1 = ""
+
 
 for s in slist:
     s.displayS()
 
-# if s.marks > max:
-#     max = s.marks
-#     s1 = s.name
-#     print("student with marks:",s1)                    
+            
