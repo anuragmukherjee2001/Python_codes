@@ -1,3 +1,1 @@
-
-
-print(davison.print_details())
+Json
